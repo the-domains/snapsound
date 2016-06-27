@@ -1,0 +1,14 @@
+layout_spectrum: 0.79110954888165
+typography_spectrum: 0.769819745561108
+color:
+  brandStrength: 0.818164732074365
+  lightness: 0.6548089077696204
+  saturation: 0.2765705632045865
+  rhythmicContrast: 0.6570442067459226
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: SNAPSOUND
